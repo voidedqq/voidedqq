@@ -43,7 +43,7 @@ vibe       →  build first overthink later
 most of my repos were originally built for myself and later uploaded publicly
 
 some are useful  
-some are bullshit 
+some are bullshit
 some somehow work first try
 
 ---
