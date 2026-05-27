@@ -1,6 +1,6 @@
 <div align="center">
 
-```
+```txt
 ██╗   ██╗ ██████╗ ██╗██████╗ ███████╗██████╗
 ██║   ██║██╔═══██╗██║██╔══██╗██╔════╝██╔══██╗
 ██║   ██║██║   ██║██║██║  ██║█████╗  ██║  ██║
@@ -9,49 +9,47 @@
   ╚═══╝   ╚═════╝ ╚═╝╚═════╝ ╚══════╝╚═════╝
 ```
 
-*building things that solve my problems — sometimes other people's too*
+### making random shit because i got annoyed something didnt exist
 
 </div>
 
 ---
 
-### what i do
+# about me
 
-I write software for fun and utility. Mostly things I actually need: Minecraft plugins that do exactly what I want, optimization tools that scratch a specific itch, and small projects that exist purely because I thought *"this should exist."*
+i code stuff i actually use myself
 
-No grand mission. Just making the computer do useful things.
+mostly minecraft plugins, optimization tools, random utilities, qol features, and other weird ideas that sounded cool for me
 
----
-
-### projects
-
-| project | what it is |
-|---|---|
-| 🧱 **minecraft plugins** | custom server-side plugins — mechanics, QoL, whatever the vanilla game won't do |
-| ⚡ **optimization tools** | small apps focused on doing one thing fast and efficiently |
-| 🔧 **personal utils** | scripts, tools, and programs built for me — use them if they're useful to you |
+i care more about stuff actually working than making it look corporate and overengineered
 
 ---
 
-### stack
+# stack
 
-```
-languages    →   Java  ·  Python  ·  whatever the job needs
-focus        →   performance  ·  simplicity  ·  no bloat
-philosophy   →   if i need it, i'll build it
+```txt
+languages  →  Java · Python · C++ · whatever works
+focus      →  performance · simplicity · no bloat
+vibe       →  build first overthink later
 ```
 
 ---
 
-### the philosophy
+# philosophy
 
-> Most of my repos exist because I wanted something that didn't exist yet.
-> If it's useful to you too — great. If not — it's still useful to me.
+> if i need something and it doesnt exist  
+> ill probably make it myself
+
+most of my repos were originally built for myself and later uploaded publicly
+
+some are useful  
+some are bullshit 
+some somehow work first try
 
 ---
 
 <div align="center">
 
-*feel free to poke around · issues and PRs welcome on anything that catches your eye*
+feel free to look around or steal inspiration idrc
 
 </div>
